@@ -7,6 +7,6 @@ int main()
     b=3;
     printf("1/0=%d\n",a==b?1:0);
     printf("Hello World!");
-    printf("\nycy666");
+   
     return 0;
 }
